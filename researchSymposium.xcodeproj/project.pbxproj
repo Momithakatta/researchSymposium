@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BFB743E226A7715600405F62 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFB743E126A7715600405F62 /* SecondViewController.swift */; };
+		BFB743E426A7719D00405F62 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFB743E326A7719D00405F62 /* ThirdViewController.swift */; };
+		BFB743E626A771BB00405F62 /* FourthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFB743E526A771BB00405F62 /* FourthViewController.swift */; };
+		BFB743E826A771DB00405F62 /* FifthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFB743E726A771DB00405F62 /* FifthViewController.swift */; };
+		BFB743EA26A771F500405F62 /* SixthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFB743E926A771F500405F62 /* SixthViewController.swift */; };
+		BFB743EC26A7722A00405F62 /* SeventhViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFB743EB26A7722A00405F62 /* SeventhViewController.swift */; };
 		BFC8B1AC26A62302000F0848 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC8B1AB26A62302000F0848 /* AppDelegate.swift */; };
 		BFC8B1AE26A62302000F0848 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC8B1AD26A62302000F0848 /* SceneDelegate.swift */; };
 		BFC8B1B026A62302000F0848 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC8B1AF26A62302000F0848 /* ViewController.swift */; };
@@ -16,6 +22,7 @@
 		BFC8B1BB26A62304000F0848 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BFC8B1B926A62304000F0848 /* LaunchScreen.storyboard */; };
 		BFC8B1C626A62304000F0848 /* researchSymposiumTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC8B1C526A62304000F0848 /* researchSymposiumTests.swift */; };
 		BFC8B1D126A62304000F0848 /* researchSymposiumUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC8B1D026A62304000F0848 /* researchSymposiumUITests.swift */; };
+		BFFE505626A79BCC00EB03D2 /* EightViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFFE505526A79BCC00EB03D2 /* EightViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +43,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BFB743E126A7715600405F62 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		BFB743E326A7719D00405F62 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
+		BFB743E526A771BB00405F62 /* FourthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthViewController.swift; sourceTree = "<group>"; };
+		BFB743E726A771DB00405F62 /* FifthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FifthViewController.swift; sourceTree = "<group>"; };
+		BFB743E926A771F500405F62 /* SixthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SixthViewController.swift; sourceTree = "<group>"; };
+		BFB743EB26A7722A00405F62 /* SeventhViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeventhViewController.swift; sourceTree = "<group>"; };
 		BFC8B1A826A62302000F0848 /* researchSymposium.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = researchSymposium.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFC8B1AB26A62302000F0848 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BFC8B1AD26A62302000F0848 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -51,6 +64,7 @@
 		BFC8B1CC26A62304000F0848 /* researchSymposiumUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = researchSymposiumUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFC8B1D026A62304000F0848 /* researchSymposiumUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = researchSymposiumUITests.swift; sourceTree = "<group>"; };
 		BFC8B1D226A62304000F0848 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BFFE505526A79BCC00EB03D2 /* EightViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EightViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +123,13 @@
 				BFC8B1B926A62304000F0848 /* LaunchScreen.storyboard */,
 				BFC8B1BC26A62304000F0848 /* Info.plist */,
 				BFC8B1B426A62302000F0848 /* researchSymposium.xcdatamodeld */,
+				BFB743E126A7715600405F62 /* SecondViewController.swift */,
+				BFB743E326A7719D00405F62 /* ThirdViewController.swift */,
+				BFB743E526A771BB00405F62 /* FourthViewController.swift */,
+				BFB743E726A771DB00405F62 /* FifthViewController.swift */,
+				BFB743E926A771F500405F62 /* SixthViewController.swift */,
+				BFB743EB26A7722A00405F62 /* SeventhViewController.swift */,
+				BFFE505526A79BCC00EB03D2 /* EightViewController.swift */,
 			);
 			path = researchSymposium;
 			sourceTree = "<group>";
@@ -262,9 +283,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				BFC8B1B026A62302000F0848 /* ViewController.swift in Sources */,
+				BFB743EA26A771F500405F62 /* SixthViewController.swift in Sources */,
 				BFC8B1B626A62302000F0848 /* researchSymposium.xcdatamodeld in Sources */,
 				BFC8B1AC26A62302000F0848 /* AppDelegate.swift in Sources */,
+				BFB743EC26A7722A00405F62 /* SeventhViewController.swift in Sources */,
+				BFB743E626A771BB00405F62 /* FourthViewController.swift in Sources */,
+				BFB743E826A771DB00405F62 /* FifthViewController.swift in Sources */,
+				BFB743E226A7715600405F62 /* SecondViewController.swift in Sources */,
+				BFB743E426A7719D00405F62 /* ThirdViewController.swift in Sources */,
 				BFC8B1AE26A62302000F0848 /* SceneDelegate.swift in Sources */,
+				BFFE505626A79BCC00EB03D2 /* EightViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
